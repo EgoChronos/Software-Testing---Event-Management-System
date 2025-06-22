@@ -9,7 +9,7 @@ This project involves comprehensive testing of a Full-Stack Event Management Sys
 🔍 The goal is to simulate a real-world QA environment by covering functional, API, and performance testing.
 
 🧰 Tools & Technologies Used
-Layer	Tool/Tech	Purpose
+Layer	Tool/Tech	Purpose 
 🌐 Frontend (UI)	Selenium + JavaScript	Automated UI Testing
 🔌 API Layer	Postman	API Request/Response Validation
 🚀 Performance	JMeter	Load and Stress Testing
